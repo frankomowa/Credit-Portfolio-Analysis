@@ -10,6 +10,7 @@
 - [Data Analysis](#Data-Analysis)
 - [Results/Findings](#Results/Findings)
 - [Recommendations](#Recommendations)
+- [Data Visualisation](#Data-Visualisation)
 
 ## Project Overview
 
@@ -39,7 +40,7 @@ EDA involved exploring the dataset to identify KPIs, loan status, borrowers' pro
 
 ## Data Analysis
 
-You can find the SQL Queries that were used in this project [here](CPA-SQL-Queries.sql)
+You can download the SQL Queries file that was used in this project [here](CPA-SQL-Queries.sql)
 
 ## Results/Findings
 
@@ -94,6 +95,57 @@ We should regularly monitor the Credit Portfolio dashboard going forward to:
 - Take faster actions, and
 - Make more confident lending decisions.
 
+## Data Visualisation
 
+### Dashboard name: Credit Portfolio Analysis Dashboard
+
+### Purpose 
+- This dashboard helps executives to effectively monitor loan performance.
+
+### Key KPIs: 
+
+- **Loan Applications:** This metric monitors the total volume of loan applications submitted within a specified timeframe, providing insights into customer engagement and demand for loan products.
+  
+- **Disbursements:** This section tracks the total monetary amount disbursed to borrowers, facilitating an understanding of lending activity and financial outflows.
+  
+- **Repayments:** This metric captures the total amount received from borrowers, essential for assessing cash flow and repayment performance.
+  
+- **Interest Rate:** This monitors the average percentage of interest charged on all loans over time, contributing to insights on pricing strategies and profitability.
+  
+- **MTD (Month-to-Date):** This consists of all values recorded from the 1st day of the current month through to the present date.
+  
+- **PMTD (Previous Month-to-Date):** This reflects all values for the same date range in the previous month, allowing for comparative analysis of performance trends.
+
+### Dashboard Components
+
+1. **Overview Page:**
+
+
+<img width="1365" height="779" alt="Overview-Page" src="https://github.com/user-attachments/assets/0d922cb4-bf19-442b-898a-41aba1d3be6b" />
+
+   - **Cards:** This display presents key performance indicators (KPIs), showcasing both MTD and PMTD values for quick reference.
+   - **Line Chart:** This visualisation illustrates monthly trends across various KPIs, with the ability to switch between KPIs via the ‘select KPI’ pane, enabling comprehensive tracking without necessitating multiple charts.
+   - **Donut Chart:** This chart depicts the distribution of loan classifications, including good, bad, and active loans, providing insights into portfolio health.
+   - **Clustered Column Chart:** This chart facilitates a comparative analysis between the amounts disbursed and repayments received, segmented by loan class.
+   - **Slicers:** These filtering tools allow users to segment data by month.
+   - **Images/Icons:** Branding and visual.
+   - **Navigation Buttons:** These facilitate seamless transitions between various dashboard pages for improved user experience.
+
+
+2. **Customer Segments:**
+
+<img width="1382" height="777" alt="Customer-Segments" src="https://github.com/user-attachments/assets/a2f86dc9-1824-406a-8b12-762f359e6f73" />
+
+   - **Column Chart:** This visual representation compares loan applications across different categories. Users can toggle between categories through the ‘segments’ pane, which also compares the percentages of good, bad, and active loans based on loan purpose and verification status.
+   - **Map:** This feature visualises loan applications geographically by region, enabling a spatial analysis of lending activities.
+
+
+3. **Portfolio Details:**
+
+<img width="1378" height="774" alt="Portfolio Details" src="https://github.com/user-attachments/assets/2d2e097e-893c-4a24-8b40-736fd4c4e8b2" />
+
+   - **Table:** A detailed summary of the loan portfolio is provided in tabular format, allowing for a comprehensive overview of individual loan characteristics and performance.
+
+This dashboard serves as a sophisticated tool for data analysis, designed to deliver valuable insights into loan performance, customer engagement, and financial health, thereby supporting informed decision-making within the organization. Download the Power BI report [here]
    
 
