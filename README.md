@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-- [Project Overview](Project-Overview)
+- [Project Overview](#Project-Overview)
 - [Data Sources](Data-Sources)
 - [Data Cleaning/Preparation](Data-Cleaning/Preparation)
 - [Recommendations](Recommendations)
