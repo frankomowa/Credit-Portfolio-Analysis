@@ -3,9 +3,13 @@
 # Table of Contents
 
 - [Project Overview](#Project-Overview)
-- [Data Sources](Data-Sources)
-- [Data Cleaning/Preparation](Data-Cleaning/Preparation)
-- [Recommendations](Recommendations)
+- [Data Sources](#Data-Sources)
+- [Tools](#Tools)
+- [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+- [Data Analysis](#Data-Analysis)
+- [Results/Findings](#Results/Findings)
+- [Recommendations](#Recommendations)
 
 ## Project Overview
 
