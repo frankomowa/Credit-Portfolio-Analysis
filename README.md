@@ -147,7 +147,7 @@ We should regularly monitor the Credit Portfolio dashboard going forward to:
 
    - **Table:** A detailed summary of the loan portfolio is provided in tabular format, allowing for a comprehensive overview of individual loan characteristics and performance.
 
-This dashboard serves as a sophisticated tool for data analysis, designed to deliver valuable insights into loan performance, customer engagement, and financial health, thereby supporting informed decision-making within the organization. Download the Power BI report [here](Credit-Portofolio-Analysis-Dashboard/CPA-Dashboard.pdf)
+This dashboard serves as a sophisticated tool for data analysis, designed to deliver valuable insights into loan performance, customer engagement, and financial health, thereby supporting informed decision-making within the organisation. Download the Power BI report [here](Credit-Portofolio-Analysis-Dashboard/CPA-Dashboard.pdf)
 
    
 
