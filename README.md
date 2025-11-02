@@ -136,7 +136,8 @@ We should regularly monitor the Credit Portfolio dashboard going forward to:
 
 <img width="1382" height="777" alt="Customer-Segments" src="https://github.com/user-attachments/assets/a2f86dc9-1824-406a-8b12-762f359e6f73" />
 
-   - **Column Chart:** This visual representation compares loan applications across different categories. Users can toggle between categories through the ‘segments’ pane, which also compares the percentages of good, bad, and active loans based on loan purpose and verification status.
+   - **Column Chart:** This visual representation compares loan applications across different categories. Users can toggle between categories through the ‘segments’ pane.
+   - **Stacked Column Chart:** This visualisation compares the percentages of good, bad, and active loans based on loan purpose and verification status.
    - **Map:** This feature visualises loan applications geographically by region, enabling a spatial analysis of lending activities.
 
 
