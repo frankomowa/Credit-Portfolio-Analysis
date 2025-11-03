@@ -50,7 +50,7 @@ You can download the SQL Queries file that was used in this project [here](CPA-S
 ### Purpose 
 - This dashboard helps executives to effectively monitor loan performance.
 
-### Key KPIs: 
+### KPIs: 
 
 - **Loan Applications:** This metric monitors the total volume of loan applications submitted within a specified timeframe, providing insights into customer engagement and demand for loan products.
   
